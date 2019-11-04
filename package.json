@@ -30,7 +30,7 @@
     "modali": "^1.2.0",
     "node-fetch": "^2.6.0",
     "react": "^16.10.2",
-    "react-dom": "^16.10.2",
+    "react-dom": "^16.11.0",
     "react-emotion": "^10.0.0",
     "react-github-btn": "^1.0.5",
     "react-instantsearch-dom": "^5.7.0",
